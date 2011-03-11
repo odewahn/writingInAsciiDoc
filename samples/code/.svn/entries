@@ -1,0 +1,52 @@
+8
+
+dir
+310767
+https://prod.oreilly.com/external/tools/docbook/prod/trunk/samples/r_and_d/asciidoc/code
+https://prod.oreilly.com
+
+
+
+2011-01-05T12:28:22.083990Z
+296100
+ajfox@oreilly.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+116dc4a9-b042-40dd-b87b-4fe04d0a746b
+
+HelloWorld.java
+file
+
+
+
+
+2011-03-10T20:07:23.000000Z
+8948643cafa8972df32d11131eadd1b8
+2011-01-05T12:28:22.083990Z
+296100
+ajfox@oreilly.com
+
+inline_markup.txt
+file
+
+
+
+
+2011-03-10T20:07:23.000000Z
+296fedde74ef13290458e5ddf029a198
+2011-01-05T12:28:22.083990Z
+296100
+ajfox@oreilly.com
+
