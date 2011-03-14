@@ -1,0 +1,1 @@
+This repository describes how to develop an O'Reilly book usin AsciiDoc.  It's something of a moving target and I'm hoping to get some help on it!
