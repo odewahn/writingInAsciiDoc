@@ -1,6 +1,7 @@
 == Introduction
 This document describes the workflow for Maker Press, an experimental system for building high quality, commercial documentation for projects for MAKE. Here's the basic idea:
 
+<<<<<<< HEAD
 * Editors sign an author to document a project (or multiple projects)
 * The author develops the content in AsciiDoc, a text document format for writing documentation, articles, books, ebooks, slideshows, web pages, man pages and blogs.
 * The author, editor, and any interested contributor (more on this in a second) develop and maintain the content in git and github.
@@ -29,10 +30,11 @@ The author or editor will review your suggestions and incorporate them as he or 
 ============================
 
 This document walks you through the details of the authoring process.  It's mostly focused on tools and workflows -- see the <<useful-links>> for more information about formatting content in AsciiDoc, writing for O'Reilly, using git, and various other related topics.
+=======
+include::sec_quickstart.asc[]
+>>>>>>> stone
 
 include::sec_environment.asc[]
-
-include::sec_quickstart.asc[]
 
 include::sec_writing_in_asciidoc.asc[]
 
